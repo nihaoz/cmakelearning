@@ -1,0 +1,4 @@
+/home/zyh/cmakelearning/helloworldcv/build/CMakeFiles/rebuild_cache.dir
+/home/zyh/cmakelearning/helloworldcv/build/CMakeFiles/edit_cache.dir
+/home/zyh/cmakelearning/helloworldcv/build/CMakeFiles/hello_cv_2_lib.dir
+/home/zyh/cmakelearning/helloworldcv/build/CMakeFiles/hello_cv2_add_static_lib.dir

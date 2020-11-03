@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/protoctest.dir/protoc_test.cpp.o CMakeFiles/protoctest.dir/__/protoc/addressbook.pb.cc.o  -o protoctest -Wl,-rpath,/usr/local/lib /usr/local/lib/libprotobuf.so -lpthread 
